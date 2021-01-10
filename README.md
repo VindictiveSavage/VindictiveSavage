@@ -1,5 +1,5 @@
 ### Hola 
-###🌱 I’m currently learning: Javascript
+🌱 I’m currently learning: Javascript
 
 <!--
 **VindictiveSavage/VindictiveSavage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+![Metrics](https://github.com/VindictiveSavage/VindictiveSavage/blob/master/github-metrics.svg)
