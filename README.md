@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-(https://github.com/VindictiveSavage/VindictiveSavage/blob/master/github-metrics.svg)
+
 ![Metrics](https://metrics.lecoq.io/VindictiveSavage?template=classic&isocalendar=1&languages=1&stars=1&isocalendar.duration=full-year&stars.limit=3&config.timezone=America%2FNew_York&config.animated=true)
