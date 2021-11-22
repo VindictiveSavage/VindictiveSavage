@@ -1,5 +1,5 @@
 ### Hola 
-🌱 I’m currently learning: Javascript and Tailwind 
+🌱 I’m currently learning: Javascript
 
 <!--
 **VindictiveSavage/VindictiveSavage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
